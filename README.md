@@ -6,7 +6,7 @@ It combines three everyday utilities — 🌦️ Weather, 💱 Currency Conversi
 This project was developed as part of real-world skills in **frontend, backend, and API integration**.
 
 ---
-
+https://github.com/BalaPrakash-rakoti/InfoHub/blob/main/Demo%20Video.mp4
 
 
 ## 🌟 **Key Features**
