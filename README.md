@@ -7,7 +7,9 @@ This project was developed as part of real-world skills in **frontend, backend, 
 
 ---
 ## Click below link to watch demo:
+
 https://github.com/BalaPrakash-rakoti/InfoHub/raw/refs/heads/main/Demo%20Video.mp4
+
 ---
 
 ## 🌟 **Key Features**
