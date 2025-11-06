@@ -7,11 +7,7 @@ This project was developed as part of real-world skills in **frontend, backend, 
 
 ---
 
-## 🚀 **Live Demo**
-🔗 **[View the deployed project on Vercel](https://your-vercel-app-url.vercel.app)**  
-*(Replace with your actual deployment link after uploading to Vercel.)*
 
----
 
 ## 🌟 **Key Features**
 
