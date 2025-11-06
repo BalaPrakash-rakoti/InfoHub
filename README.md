@@ -7,10 +7,9 @@ This project was developed as part of real-world skills in **frontend, backend, 
 
 ---
 ## Click below link to watch demo:
-https://github.com/BalaPrakash-rakoti/MultiClass-Adaptive-Active-Learning-for-Predicting-Student-Anxiety/raw/main/CODE/DEMO.mp4
+https://github.com/BalaPrakash-rakoti/InfoH-ub/raw/main/Demo%20Video.mp4
 
-https://github.com/BalaPrakash-rakoti/InfoHub/raw/main/Demo%20Video.mp4
-
+---
 
 ## 🌟 **Key Features**
 
